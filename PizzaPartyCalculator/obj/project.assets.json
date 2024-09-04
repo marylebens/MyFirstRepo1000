@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/MyFirstRepo1000/HelloWorld/HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "/workspaces/MyFirstRepo1000/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/workspaces/MyFirstRepo1000/PizzaPartyCalculator/PizzaPartyCalculator.csproj",
+      "projectName": "PizzaPartyCalculator",
+      "projectPath": "/workspaces/MyFirstRepo1000/PizzaPartyCalculator/PizzaPartyCalculator.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/MyFirstRepo1000/HelloWorld/obj/",
+      "outputPath": "/workspaces/MyFirstRepo1000/PizzaPartyCalculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
